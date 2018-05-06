@@ -3,8 +3,8 @@
 # Scott Burley
 
 # Summary: Read a file 'charity.csv' in the same folder. Transform data and fit
-# models to predict DAMT and DONR variables. Export results as 'result.csv' in
-# the same folder.
+# models to predict DAMT and DONR variables. Export the results as 'result.csv'
+# in the same folder.
 
 library(tidyverse)
 library(class)  # for knn()
